@@ -1,0 +1,12 @@
+{
+    "autoload":{
+        "psr-4": {
+            "Src\\Libs\\Conexion\\": "src/libs/"
+        }
+    },
+
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.1"
+    }
+}
